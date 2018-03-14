@@ -3,6 +3,7 @@
 require 'train/platforms/common'
 require 'train/platforms/family'
 require 'train/platforms/platform'
+require 'train/platforms/uuid'
 require 'train/platforms/detect'
 require 'train/platforms/detect/scanner'
 require 'train/platforms/detect/specifications/os'
